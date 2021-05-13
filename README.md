@@ -5,7 +5,7 @@ Usage:
   
 ```  
 $ python3 cash_converter.py  
-$ Please enter the cash in the form of  
+Please enter the cash in the form of  
 [ 000.000.000.000,00 ]  
   
 Amount: 192.263,50  
